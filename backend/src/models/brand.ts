@@ -1,10 +1,10 @@
-import { BrandSettings } from "./brand-setting";
+import { BrandSetting } from "./brand-setting";
 
 export type Brand = {
   id: string;
   name: string;
   url: string;
-  settings?: BrandSettings;
+  settings?: BrandSetting;
 };
 
 export type Brands = Brand[];

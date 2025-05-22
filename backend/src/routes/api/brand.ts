@@ -1,4 +1,4 @@
-import BrandService from "../services/brand";
+import BrandService from "../../services/brand";
 import { Request, Response, NextFunction } from "express";
 
 const listBrands = async (req: Request, res: Response, next: NextFunction) => {

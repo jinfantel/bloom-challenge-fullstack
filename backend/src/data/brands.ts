@@ -4,8 +4,23 @@
 
 export default [
   {
-    id: "karyn_coo",
+    id: "karyncoo",
     name: "Karyn Coo",
-    url: "https://www.karyncoo.com",
+    url: "https://karyncoo.bloomreuse.com/",
   },
+  {
+    id: "andesgear",
+    name: "Andesgear",
+    url: "https://circular.andesgear.cl/"
+  },
+  {
+    id: "milu",
+    name: "Milú Rugs",
+    url: "https://milu.bloomreuse.com"
+  },
+  {
+    id: "kokoro",
+    name: "Kokoro",
+    url: "https://vintage.kokoro.cl"
+  }
 ];
